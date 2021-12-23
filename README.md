@@ -6,3 +6,5 @@ this program has 40 detections on [virustotal](https://www.virustotal.com/gui/fi
 
 The logger waits for the login information to be set to the clipboard and dumps it,
 once the email and password is dumped it waits for the 2fa code and before their authenticator has a chance to use it, it closes the authenticator and logs the 2fa
+
+![Account Dump Example](./example.PNG)
